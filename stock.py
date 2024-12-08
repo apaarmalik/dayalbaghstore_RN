@@ -5,4 +5,4 @@ import os
 import glob
 
 # Title
-st.image("./instockitems/Sarvrog_nashak_pills.png")
+st.write("hello")
