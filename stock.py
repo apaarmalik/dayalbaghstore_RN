@@ -6,6 +6,6 @@ import glob
 
 # Title
 
-img_files=glob.glob("instockitems/*.png")
-for imgs in img_files:
+img_fil=glob.glob("instockitems/*.png")
+for imgs in img_fil:
   st.image(imgs)
