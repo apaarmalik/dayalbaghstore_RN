@@ -5,7 +5,4 @@ import os
 import glob
 
 # Title
-
-img_fil=glob.glob("instockitems/*.png")
-for imgs in img_fil:
-  st.image(imgs)
+st.image("./instockitems/Sarvrog_nashak_pills.png")
